@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=5028&pause=1000&color=71FEFF&vCenter=true&random=true&width=435&height=30&lines=Hello+There+!)](https://git.io/typing-svg)
+[![Hello There](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=5028&pause=1000&color=71FEFF&vCenter=true&random=true&width=435&height=30&lines=Hello+There+!)]()
 
 <!--
 **adityasundar15/adityasundar15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

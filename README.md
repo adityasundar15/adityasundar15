@@ -1,4 +1,4 @@
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td>
       <a href="">
@@ -6,7 +6,7 @@
       </a>
     </td>
     <td align="right">
-      <img src="https://i.pinimg.com/originals/2b/4c/32/2b4c32ab5c999a371872401ff0388d74.gif" height="30" alt="GIF">
+      <img src="https://i.pinimg.com/originals/2b/4c/32/2b4c32ab5c999a371872401ff0388d74.gif" height="100" alt="GIF">
     </td>
   </tr>
 </table>
